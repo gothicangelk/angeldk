@@ -12,10 +12,10 @@ const menu = require("./lib/menu.js");
 const donate = require("./lib/donate.js");
 const info = require("./lib/info.js");
 //
-const BotName = 'BOT ./filho do angel'; // Nama Bot Whatsapp
-const instagramlu = '://instagram.com/angel_legendas?igshid=1wo4d4kzilwk'; // Nama Instagramlu cok
-const whatsapplu = '55 69 96035944'; // Nomor whatsapplu cok
-const kapanbotaktif = '24 Jan'; // Kapan bot lu aktif
+const BotName = 'BOT ./MrG3P5'; // Nama Bot Whatsapp
+const instagramlu = 'https://www.instagram.com/mrg3p5_id/'; // Nama Instagramlu cok
+const whatsapplu = '0895-2325-8649'; // Nomor whatsapplu cok
+const kapanbotaktif = '24 Jam'; // Kapan bot lu aktif
 const grupch1 = 'https://chat.whatsapp.com/L0jifxElwo6B2QyxuabLtU'; // OFFICIAL GRUP LU 1
 const grupch2 = 'https://chat.whatsapp.com/CxrUD2MnUv5KGko3CsW6DT'; // OFFICIAL GRUP LU 2
 //
