@@ -13,7 +13,7 @@ const donate = require("./lib/donate.js");
 const info = require("./lib/info.js");
 //
 const BotName = 'BOT ./filho do angel'; // Nama Bot Whatsapp
-const instagramlu = 'https://instagram.com/angel_legendas?igshid=1wo4d4kzilwk'; // Nama Instagramlu cok
+const instagramlu = '://instagram.com/angel_legendas?igshid=1wo4d4kzilwk'; // Nama Instagramlu cok
 const whatsapplu = '55 69 96035944'; // Nomor whatsapplu cok
 const kapanbotaktif = '24 Jan'; // Kapan bot lu aktif
 const grupch1 = 'https://chat.whatsapp.com/L0jifxElwo6B2QyxuabLtU'; // OFFICIAL GRUP LU 1
